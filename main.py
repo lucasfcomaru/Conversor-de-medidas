@@ -1,5 +1,6 @@
 import cabecalho as cb
 import comprimento as ct
+import massa as ps
 
 # Menu principal
 while True:
@@ -7,7 +8,7 @@ while True:
     print('-' * 10, 'MENU PRINCIPAL', '-' * 10)
     print('Tipos de medidas')
     print('1 - Comprimento')
-    print('2 - Peso')
+    print('2 - Massa')
     print('3 - Temperatura')
     print('4 - Volume')
     print('0 - Sair')
@@ -22,6 +23,9 @@ while True:
             break
         elif (tipo_medida == 1):
             ct.conversor_comprimento()
+            continue
+        elif (tipo_medida == 2):
+            ps.conversor_massa()
             continue
         else:
             print('Opção inválida. Digite uma opção do menu.')
