@@ -1,6 +1,8 @@
 import cabecalho as cb
 import comprimento as ct
 import massa as ms
+import temperatura as tp
+import volume as vm
 
 # Menu principal
 while True:
@@ -26,6 +28,12 @@ while True:
             continue
         elif (tipo_medida == 2):
             ms.conversor_massa()
+            continue
+        elif (tipo_medida == 3):
+            tp.conversor_temperatura()
+            continue
+        elif (tipo_medida == 4):
+            vm.conversor_volume()
             continue
         else:
             print('Opção inválida. Digite uma opção do menu.')
