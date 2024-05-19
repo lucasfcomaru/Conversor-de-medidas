@@ -27,7 +27,7 @@
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<ul>
-<li>Você tem uma máquina `<Windows / Linux / Mac>`.</li>
-<li>Você tem a versão mais recente do `<Python>` instalada.</li>
-</ul>
+
+- Você tem uma máquina `<Windows / Linux / Mac>`.
+- Você tem a versão mais recente do `<Python>` instalada.
+
