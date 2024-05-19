@@ -1,5 +1,4 @@
-<img src="Imagens/banner-pokemon-dataset.png"/>
-
+<img src="/assets/banner-conversor-medidas.png"/>
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/lucasfcomaru/Conversor-de-medidas?style=for-the-badge" alt="Repo size" title="Repo size"/>
   <img src="https://img.shields.io/github/languages/count/lucasfcomaru/Conversor-de-medidas?style=for-the-badge" alt="Language count" title="Language count"/>
