@@ -1,6 +1,6 @@
 import cabecalho as cb
 import comprimento as ct
-import massa as ps
+import massa as ms
 
 # Menu principal
 while True:
@@ -25,7 +25,7 @@ while True:
             ct.conversor_comprimento()
             continue
         elif (tipo_medida == 2):
-            ps.conversor_massa()
+            ms.conversor_massa()
             continue
         else:
             print('Opção inválida. Digite uma opção do menu.')

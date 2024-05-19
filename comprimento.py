@@ -1,6 +1,6 @@
 def conversor_comprimento():
     while True:
-        print('Escolha a primeira unidade de medida.')
+        print('Escolha uma unidade de medida.')
         print('km - Quilômetro')
         print('hm - Hectômetro')
         print('dam - Decâmetro')
