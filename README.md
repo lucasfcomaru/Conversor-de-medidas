@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/bitbucket/pr-raw/lucasfcomaru/Pokemon_dataset_analysis?style=for-the-badge" alt="Open pull requests count" title="Open pull requests"/>
 </p>
 
-# 📈 Projeto de conversor de medidas utilizando Python
+# 📈 Projeto de Conversor de Medidas utilizando Python
 ## 📢 Descrição do Projeto
 ### 🎯 Objetivo
 <p align="left">
@@ -30,4 +30,18 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você tem uma máquina `<Windows / Linux / Mac>`.
 - Você tem a versão mais recente do `<Python>` instalada.
+
+## ☕ Usando o Conversor de Medidas
+
+Para usar o <b>Conversor de medidas</b>, siga estas etapas:
+
+<ul>
+    <li>Etapa 1: execute o arquivo main.py.</li>
+    <li>Etapa 2: escolha o tipo de medida.</li>
+    <li>Etapa 3: escolha a unidade de medida de entrada.</li>
+    <li>Etapa 4: informe o valor a ser convertido.</li>
+    <li>Etapa 5: escolha a unidade de medida de saída.</li>
+    <li>Etapa 6: veja o resultado no terminal.</li>
+    <li>Etapa 7: informe se deseja continuar fazendo conversões.</li>
+</ul>
 
