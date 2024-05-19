@@ -135,6 +135,11 @@ def conversor_temperatura():
                     else:
                         print('Digite unidades de medidas válidas.')
 
+            # Voltar para o menu principal
+            elif (temperatura_unidade1 == '0'):
+                print('Voltando para o menu principal')
+                break
+
             else:
                 print('Opção inválida. Digite uma opção do menu.')
         
