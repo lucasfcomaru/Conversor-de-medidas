@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/github/forks/lucasfcomaru/Conversor-de-medidas?style=for-the-badge" alt="Forks" title="Forks"/>
   <img src="https://img.shields.io/bitbucket/issues/lucasfcomaru/Conversor-de-medidas?style=for-the-badge" alt="Open issues" title="Open issues"/>
   <img src="https://img.shields.io/bitbucket/pr-raw/lucasfcomaru/Conversor-de-medidas?style=for-the-badge" alt="Open pull requests count" title="Open pull requests"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
 </p>
 
 # 📈 Projeto de Conversor de Medidas utilizando Python
